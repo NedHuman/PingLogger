@@ -1,0 +1,6 @@
+name: PingLogger
+version: '1.0-SNAPSHOT'
+main: com.heesesmp.pinglogger.PingLogger
+api-version: '1.20'
+author: NedHuman
+description: Plugin which logs when somebody pings your server

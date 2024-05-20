@@ -1,0 +1,4 @@
+# Should pings be broadcasted to console?
+ping-broadcast: true
+# Should pings be logged to PingLogger/logs?
+ping-logs: true
