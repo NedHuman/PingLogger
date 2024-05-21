@@ -9,6 +9,7 @@ public final class PingLogger extends JavaPlugin {
     @Override
     public void onEnable() {
         instance = this;
+        saveDefaultConfig();
         getServer().getPluginManager().registerEvents(new ServerListPingListener(), this);
 
     }
